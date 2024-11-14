@@ -3,4 +3,4 @@
 
 This is bcz of the inner working of mongoDB
 
-- [Todo App Data Modeling](https://stackblitz.com/edit/stackblitz-starters-aozwd9?description=&file=models%2Ftodos%2Fuser.model.js,models%2Ftodos%2Ftodo.model.js,models%2Ftodos%2Fsub_todo.model.js&title=Express%20Starter)
+- [Data Modeling Practice Project](https://stackblitz.com/edit/stackblitz-starters-aozwd9)
